@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NomenclProject">
+</Property><Property Name="Solution File" Value="H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\NomenclProject.sln">
+</Property><Property Name="User Options File" Value="H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\NomenclProject.suo">
+</Property><Property Name="Date" Value="23 август 2013 г.">
+</Property><Property Name="Time" Value="22:21 ч.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NomenclProject.sln" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NomenclProject.suo" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject.suo">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\NomenclProject.csproj" Description="Project file successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\NomenclProject.csproj">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\NomenclProject.csproj.user" Description="Project user file successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\NomenclProject.csproj.user">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\Class1.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\Class1.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\GreenBox.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\GreenBox.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\HA.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\HA.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\options.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\options.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\options.Designer.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\options.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\Properties\AssemblyInfo.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\Properties\Resources.Designer.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\TypeViewerControl.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\TypeViewerControl.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\TypeViewerControl.Designer.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\TypeViewerControl.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\TypeViewerPalette.cs" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\TypeViewerPalette.cs">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\TextFile1.txt" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\TextFile1.txt">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\options.resx" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\options.resx">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\Properties\Resources.resx" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\TypeViewerControl.resx" Description="File successfully backed up as H:\Nikolay\dot.NET\Projects\nomenclatureProject\NomenclProject\Backup\NomenclProject\TypeViewerControl.resx">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\NomenclProject.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NomenclProject" Source="NomenclProject\NomenclProject.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NomenclProject.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NomenclProject.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NomenclProject" Source="NomenclProject\NomenclProject.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

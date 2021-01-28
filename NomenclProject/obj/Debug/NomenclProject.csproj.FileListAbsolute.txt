@@ -1,0 +1,10 @@
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\bin\Debug\NomenclProject.dll
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\bin\Debug\NomenclProject.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\NomenclProject.dll
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\NomenclProject.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\NomenclProject.csproj.GenerateResource.Cache
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\NomenclProject.csproj.ResolveComReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\Nomproject.TypeViewerControl.resources
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\Nomproject.Properties.Resources.resources
+C:\Users\Nikolay\Documents\Visual Studio 2008\Projects\nomenclatureProject\NomenclProject\NomenclProject\obj\Debug\Nomproject.options.resources

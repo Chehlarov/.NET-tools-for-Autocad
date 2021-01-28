@@ -1,0 +1,33 @@
+﻿if (obj is BlockReference)
+                        {
+
+                            BlockReference blkRef = (BlockReference)tr.GetObject(blkId, OpenMode.ForRead);
+                            BlockTableRecord btr = (BlockTableRecord)tr.GetObject(blkRef.BlockTableRecord, OpenMode.ForRead);
+
+                            if (btr.Name == "Spécial" ||
+                               btr.Name == "Barre libre" ||
+                               btr.Name == "U" ||
+                               btr.Name == "Epingle" ||
+                               btr.Name == "Cadre" ||
+                               btr.Name == "1cr45" ||
+                               btr.Name == "1cr90" ||
+                               btr.Name == "2cr45" ||
+                               btr.Name == "2cr90")
+                            {
+                                if (selbtr == null)
+                                {
+                                    selbtr = btr;
+                                    selRef = blkRef;
+                                }
+                                else
+                                {
+                                    selbtr = null;
+                                    selRef = null;
+                                    break;
+                                }
+                            }
+                            //ed.WriteMessage("\nBlock: " + btr.Name);
+
+                            btr.Dispose();
+
+                        }
